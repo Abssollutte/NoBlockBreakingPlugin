@@ -1,0 +1,9 @@
+name: SuperCoolPlugin
+version: '1.0-SNAPSHOT'
+main: ru.absolute.superCoolPlugin.SuperCoolPlugin
+api-version: '1.21'
+commands:
+  explosion:
+    description: Blow up every one
+
+
