@@ -6,3 +6,5 @@ Setup:
 Write /explosion [power] [Conjures fire] [breaking blocks] [breaking player armor]
 
 No permission yet
+
+tested on 1.21.8
